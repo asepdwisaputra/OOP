@@ -11,3 +11,4 @@ public class HandPhoneBeraksi {
         Samsung.matikan();
     }
 }
+//terhubung dengan file HandPhone.java
